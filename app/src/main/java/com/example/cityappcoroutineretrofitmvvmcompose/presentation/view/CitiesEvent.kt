@@ -1,0 +1,3 @@
+package com.example.cityappcoroutineretrofitmvvmcompose.presentation.view
+
+sealed class CitiesEvent
